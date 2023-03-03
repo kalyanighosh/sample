@@ -1,0 +1,12 @@
+make sure :   to use db.json ... first install :  npm install json-server
+
+then  .. to see db.json data on server give command : npx json-server Backend/db.json --watch port 5000 
+
+if you can see the db data on server fronend backend successfully connected 
+
+Here database port is 5000 but it is connecting it to 3000 
+
+
+
+
+
